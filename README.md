@@ -1,7 +1,7 @@
 
 # ExpCan
 
-A program for the high-precision numerical evaluation of QFT Feynman integrals by the series solution of differential equations
+A program for the high-precision numerical evaluation of Feynman integrals by the series solution of differential equations
 
 Description of the algorithm [Here](https://arxiv.org/pdf/1907.13234.pdf)
 
