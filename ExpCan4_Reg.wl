@@ -1,11 +1,8 @@
 (* ::Package:: *)
 
-(*TODO 
 
-*)
-
-(*Assumes that the cov is linear*)
-(*NOTE: singular boundary conditions must have only Log[x], no Log[-x] or Log[c x]*)
+(* Assumes linear COV *)
+(* Singular boundary conditions must have Log[x], no Log[-x] or Log[c x] *)
 
 
 
